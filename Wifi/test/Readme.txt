@@ -1,0 +1,1 @@
+This folder will contain all the stub sources to compile a bundle running on a X86 PC target
